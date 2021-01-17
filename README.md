@@ -1,4 +1,4 @@
-## REUZSC
+## Fajarsc
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -49,7 +49,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`FajarBOTV2`](https://github.com/Tersakiti404-cyber/FajarBOTV2)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : +62813-3378-2061 Fajar
